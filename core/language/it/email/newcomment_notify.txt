@@ -1,0 +1,11 @@
+Oggetto: notifica nuovo commento - "{IMAGE_NAME}"
+
+Ciao {USERNAME},
+
+Hai ricevuto questa notifica perché stai guardando l'immagine "{IMAGE_NAME}" su "{SITENAME}". Questa immagine ha ricevuto un nuovo commento dalla tua ultima visita. È possibile utilizzare il seguente collegamento per leggere il commento.
+
+{U_IMAGE}
+
+Se non desideri più guardare questa immagine/album, puoi fare clic sul collegamento "Annulla iscrizione immagine" che si trova nel collegamento sopra.
+
+{EMAIL_SIG}
